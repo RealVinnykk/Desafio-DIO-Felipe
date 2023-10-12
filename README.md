@@ -1,7 +1,8 @@
 # Desafio-DIO-Felipe
 
 # Qual o Objetivo deste repositorio?
-    Mostrar que adquiri conhecimento ao fazer os modulos de GIT e Logica de programação ministrados pelos seus respectivos professores
+    Mostrar que adquiri conhecimento ao fazer os modulos de GIT e Logica de programação 
+    ministrados pelos seus respectivos professores
 
 
 
